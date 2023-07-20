@@ -1,7 +1,6 @@
 const express=require('express');
 const app=express();
 const path = require('path');
-const router = express.Router();
 const port=3000;
 
 //home page 
